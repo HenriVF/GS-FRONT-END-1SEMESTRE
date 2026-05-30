@@ -28,8 +28,7 @@ O projeto segue estritamente a árvore de diretórios padrão exigida para o des
 ├── css/
 │   └── style.css       # Estilização, Reset e Variáveis globais
 └── img/
-    ├── satelite-hero.png  # Imagem de fundo da seção principal
-    ├── problema.png       # Imagem ilustrativa da Seção 1
+    ├── satelite-hero.png  # Imagem de fundo da seção principal e Imagem ilustrativa da Seção 1
     ├── publico.png        # Imagem ilustrativa da Seção 4
     └── aplicacao.png      # Imagem ilustrativa da Seção 6 
 
